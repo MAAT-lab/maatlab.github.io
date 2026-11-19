@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MAATlab — Cyber-Physical Architecture & Urban Systems",
+    "section": "",
+    "text": "MAATlab develops closed-loop cyber-physical systems that bridge urban/environmental telemetry, AI simulation, spatial computing, and 1:1 physical prototyping."
+  },
+  {
+    "objectID": "index.html#system-loop",
+    "href": "index.html#system-loop",
+    "title": "MAATlab — Cyber-Physical Architecture & Urban Systems",
+    "section": "System Loop",
+    "text": "System Loop\n\nSensing & Urban Telemetry: Capturing messy real-world inputs—from 360° street-level affective perception to LiDAR scans of irregular local materials[cite: 1].\nAI & Parametric Simulation: Training multimodal vision-language models (MLLMs) and surrogate structural/climate solvers[cite: 1].\nMixed Reality Alignment: Projecting holographic assembly, force vectors, and fabrication tolerances onto physical workspaces[cite: 1].\n1:1 Technological Demonstrators: Validating digital workflows through sensor-instrumented physical prototypes and field deployments[cite: 1]."
+  }
+]

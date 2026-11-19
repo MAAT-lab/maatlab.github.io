@@ -1,0 +1,32 @@
+---
+title: "DRVAA — Urban Affective Telemetry"
+subtitle: "Perceptual and somatic streetscape auditing in San Juan de Ocotán"
+author: "MAATlab Core Team"
+date: "2026-11-01"
+categories: [Computational Design & Urban AI, TRL 4]
+---
+
+::: {.callout-note appearance="simple"}
+**Key Validation Metrics:** 360° street-level somatic dataset ($n = 420$ segments) | MLLM perceptual stress scoring | Peri-urban microclimate correlation[cite: 1]
+:::
+
+## 1. Local / Urban Problem
+Standard quantitative mobility models miss street-level thermal stress, acoustic friction, and perceived safety in rapidly urbanizing peri-urban territories such as San Juan de Ocotán[cite: 1].
+
+## 2. Algorithmic & MR Workflow
+Custom Python and Grasshopper pipelines process 360° street imagery through Multimodal Large Language Models (MLLMs) to map perceptual stress indices onto spatial networks[cite: 1].
+
+## 3. Media & Interactive Documentation
+
+<!-- EMBED 1: Responsive YouTube Video (paste any YouTube URL) -->
+{{< video https://youtu.be/YOUR_VIDEO_ID >}}
+
+<!-- EMBED 2: Side-by-Side Speckle 3D Viewer & Interactive Map/Simulator -->
+::: {layout-ncol=2}
+<iframe src="https://app.speckle.systems/projects/YOUR_PROJECT_ID" width="100%" height="420px" frameborder="0"></iframe>
+
+<iframe src="https://YOUR_INTERACTIVE_HUD_OR_HUGGINGFACE_URL" width="100%" height="420px" frameborder="0"></iframe>
+:::
+
+<!-- EMBED 3: Downloadable or Inline PDF Technical Brief -->
+<iframe src="/assets/briefs/drvaa-brief.pdf" width="100%" height="550px"></iframe>

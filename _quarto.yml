@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "MAATlab"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Overview
+      - href: research.qmd
+        text: Research Lines
+      - href: prototypes/index.qmd
+        text: Demonstrators
+      - href: tools.qmd
+        text: Open Tools
+      - href: publications.qmd
+        text: Briefs & Papers
+      - href: team.qmd
+        text: Lab & Team
+    right:
+      - icon: github
+        href: https://github.com/maatlab
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    lightbox: true
+    code-copy: true

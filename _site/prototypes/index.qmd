@@ -1,0 +1,9 @@
+---
+title: "1:1 Technological Demonstrators"
+listing:
+  contents: "*.qmd"
+  type: grid
+  sort: "date desc"
+  fields: [image, title, subtitle, categories]
+  categories: true
+---
